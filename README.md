@@ -33,5 +33,5 @@ This project is a calendar-based communication tracking tool developed using Rea
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CommTrack.git
+   git clone https://github.com/akashwalunj1/CommTrack.git
    cd CommTrack
